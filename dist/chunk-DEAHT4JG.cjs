@@ -189,7 +189,7 @@ ${dts2}`;
     writeConfigFilesThrottled();
     return {
       code: s.toString(),
-      map: s.generateMap({ source: id, includeContent: true, hires: true })
+      map: null
     };
   }
   if (!imports.length && !resolvers.length)

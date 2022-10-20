@@ -1,6 +1,6 @@
 import {
   unplugin_default
-} from "./chunk-4CQV3IUK.js";
+} from "./chunk-MXZ7XE7U.js";
 import "./chunk-HBHLJZOY.js";
 
 // src/nuxt.ts
